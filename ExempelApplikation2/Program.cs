@@ -6,7 +6,7 @@ namespace ExempelApplikation2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What's your name?");
+            Console.WriteLine("What's your name?");  // Inte så imponerande
             string name = Console.ReadLine();
             Console.WriteLine("Hej " + name);
         }
