@@ -8,7 +8,7 @@ namespace ExempelApplikation2
         {
             Console.WriteLine("Vad heter du?");
             string name = Console.ReadLine();
-            Console.WriteLine("Hello " + name);
+            Console.WriteLine("Hej " + name);
         }
     }
 }
